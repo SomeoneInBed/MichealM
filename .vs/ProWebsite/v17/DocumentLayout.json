@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msazm\\projects\\ProWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2D361D-531B-BF64-738D-427E959C688C}|C:\\Users\\msazm\\projects\\ProWebsite|c:\\users\\msazm\\projects\\prowebsite\\pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2D361D-531B-BF64-738D-427E959C688C}|C:\\Users\\msazm\\projects\\ProWebsite|solutionrelative:pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2D361D-531B-BF64-738D-427E959C688C}|C:\\Users\\msazm\\projects\\ProWebsite|c:\\users\\msazm\\projects\\prowebsite\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1B2D361D-531B-BF64-738D-427E959C688C}|C:\\Users\\msazm\\projects\\ProWebsite|solutionrelative:stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\msazm\\projects\\ProWebsite\\pages\\index.html",
+              "RelativeDocumentMoniker": "pages\\index.html",
+              "ToolTip": "C:\\Users\\msazm\\projects\\ProWebsite\\pages\\index.html",
+              "RelativeToolTip": "pages\\index.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-05T21:40:35.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\msazm\\projects\\ProWebsite\\StyleSheet.css",
+              "RelativeDocumentMoniker": "StyleSheet.css",
+              "ToolTip": "C:\\Users\\msazm\\projects\\ProWebsite\\StyleSheet.css",
+              "RelativeToolTip": "StyleSheet.css",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-05T21:40:30.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
