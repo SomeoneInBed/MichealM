@@ -192,7 +192,6 @@ main {
 .aboutMe {
     margin: 0;
     padding: 0;
-    
 }
 .logo {
     height: 15px; 
@@ -367,7 +366,11 @@ footer {
         align-items: center;
     }
     .projectImage {
-        max-width: 95vw;
+        max-width: 250px;
+        overflow-x: hidden;
+    }
+    #websiteSS {
+        height: 250px;
     }
     #projects .projectText {
         display: flex;
