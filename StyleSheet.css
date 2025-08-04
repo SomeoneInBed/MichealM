@@ -107,14 +107,14 @@ ul {
     border-radius: 50%;
 }
 .vertical #githubLogo{
-    background-image: url('../images/github.png');
+    background-image: url('./images/github.png');
 }
 .vertical #linkedinLogo {
-    background-image: url('../images/linkedin.png');
+    background-image: url('./images/linkedin.png');
     border-radius: 40%;
 }
 .vertical #facebookLogo {
-    background-image: url('../images/facebook.png');
+    background-image: url('./images/facebook.png');
     border-radius: 30%;
 }
 .vertical #githubLogo:hover, #linkedinLogo:hover, #facebookLogo:hover {
